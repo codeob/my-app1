@@ -1,12 +1,15 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const MoviesDetails = () => {
+const MovieDetails
+ = () => {
   return (
     <View>
-      <Text>MoviesDetails</Text>
+      <Text>MovieDetails
+        
+      </Text>
     </View>
   )
 }
 
-export default MoviesDetails
+export default MovieDetails
