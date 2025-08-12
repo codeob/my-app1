@@ -4,7 +4,7 @@
     "slug": "my-app1",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "https://i.pinimg.com/1200x/df/1e/1e/df1e1efb857c7e0608c09ab9d908bf1d.jpg",
     "scheme": "myapp1",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,7 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "https://i.pinimg.com/1200x/df/1e/1e/df1e1efb857c7e0608c09ab9d908bf1d.jpg",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true
@@ -21,14 +21,14 @@
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "https://i.pinimg.com/1200x/df/1e/1e/df1e1efb857c7e0608c09ab9d908bf1d.jpg"
     },
     "plugins": [
       "expo-router",
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "https://i.pinimg.com/1200x/df/1e/1e/df1e1efb857c7e0608c09ab9d908bf1d.jpg",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
