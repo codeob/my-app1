@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "https://i.pinimg.com/1200x/df/1e/1e/df1e1efb857c7e0608c09ab9d908bf1d.jpg",
-    "scheme": "myapp1",
+    "scheme": "my movie App",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
